@@ -13,7 +13,7 @@ Breanna Bush
 This project is about creating an application that displays images and allows its users to scroll through the images.
 
 ### View Project:
-https://github.com/Breb96/lesson6_javascript3
+https://breb96.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. With this assignment I learned how to access elements by id, tag name, class, name or selector.
